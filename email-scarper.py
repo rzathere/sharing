@@ -49,3 +49,5 @@ except KeyboardInterrupt:
 
 for mail in emails:
     print(mail)
+    
+    https://getintopc.com/softwares/development/adobe-flash-cs6-official-free-download-setup-5002940/
